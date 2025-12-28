@@ -1,0 +1,95 @@
+{
+  "Navigation": {
+    "theMethod": "The Method",
+    "nutrition": "Nutrition",
+    "testimonials": "Testimonials",
+    "enterCamp": "Enter Camp"
+  },
+  "Hero": {
+    "badge": "Performance-First Weight Cutting",
+    "headline1": "DON'T JUST CUT.",
+    "headline2": "EVOLVE.",
+    "description": "The elite protocol for wrestlers and combat athletes. Science-based sodium manipulation, water loading, and performance-first macros. Hit the scale at 100% power.",
+    "ctaPrimary": "Start Your 8-Week Camp",
+    "ctaSecondary": "Watch Protocol",
+    "stats": {
+      "successRate": {
+        "value": "98%",
+        "label": "Scale Success Rate"
+      },
+      "athletes": {
+        "value": "15k+",
+        "label": "Elite Athletes"
+      },
+      "muscleLoss": {
+        "value": "0.0g",
+        "label": "Muscle Loss Avg"
+      }
+    }
+  },
+  "MobilePreview": {
+    "currentPhase": "Current Phase",
+    "waterLoading": "Water Loading",
+    "currentLbs": "Current LBS",
+    "lbsToGo": "LBS TO GO",
+    "start": "Start",
+    "target": "Target",
+    "tabs": {
+      "dailyPlan": "Daily Plan",
+      "macros": "Macros",
+      "supps": "Supps"
+    },
+    "daysToWeighIn": "Days to Weigh-in",
+    "scaleTime": "Scale at 09:00 AM Friday",
+    "hydrationStatus": "Hydration Status",
+    "distilledWater": "Distilled Water",
+    "dandelionRoot": "Dandelion Root",
+    "scheduled": "Scheduled",
+    "nextFuel": "Next Fuel",
+    "postWorkout": "Post-Workout",
+    "leanWhiteFish": "Lean White Fish + Spinach",
+    "noSodium": "NO SODIUM ADDED",
+    "protein": "Protein",
+    "carbs": "Carbs",
+    "dailyCalorieCap": "Daily Calorie Cap",
+    "tdee": "TDEE"
+  },
+  "Science": {
+    "headline1": "THE SCIENCE OF",
+    "headline2": "PEAK PERFORMANCE.",
+    "description": "We don't use \"bro-science.\" Our protocols are derived from elite UFC nutritionists and collegiate wrestling programs.",
+    "phase01": "Loading Phase",
+    "phase02": "The Taper",
+    "features": {
+      "sodiumManipulation": {
+        "title": "Sodium Manipulation",
+        "description": "Precision tracking of salt intake to trigger your body's natural diuretic hormone response without energy crashes.",
+        "link": "View Protocol"
+      },
+      "metabolicRecovery": {
+        "title": "Metabolic Recovery",
+        "description": "Calculate your exact TDEE adjustments based on fight-camp training volume. Keep your furnace burning hot.",
+        "link": "Read Studies"
+      },
+      "rehydration": {
+        "title": "Rehydration Phase",
+        "description": "The most critical 24 hours. Minute-by-minute protocol to replenish glycogen and fluid for peak violence.",
+        "link": "The Re-up Plan"
+      }
+    }
+  },
+  "CTA": {
+    "headline1": "STOP GUESSING.",
+    "headline2": "START WINNING.",
+    "description": "Join 15,000+ athletes who use CUT to dominate the scale and their opponents. Download now on iOS and Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "Footer": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "institutional": "Institutional",
+    "copyright": "© 2024 CUT ATHLETICS. FOR ELITE ONLY."
+  }
+}

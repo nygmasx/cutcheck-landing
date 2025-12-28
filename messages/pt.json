@@ -1,0 +1,95 @@
+{
+  "Navigation": {
+    "theMethod": "O Método",
+    "nutrition": "Nutrição",
+    "testimonials": "Depoimentos",
+    "enterCamp": "Entrar no Campo"
+  },
+  "Hero": {
+    "badge": "Corte de Peso Focado em Performance",
+    "headline1": "NÃO APENAS CORTE.",
+    "headline2": "EVOLUA.",
+    "description": "O protocolo de elite para lutadores e atletas de combate. Manipulação de sódio baseada em ciência, carga de água e macros focados em performance. Chegue na balança a 100% de potência.",
+    "ctaPrimary": "Comece Seu Campo de 8 Semanas",
+    "ctaSecondary": "Ver Protocolo",
+    "stats": {
+      "successRate": {
+        "value": "98%",
+        "label": "Taxa de Sucesso na Pesagem"
+      },
+      "athletes": {
+        "value": "15k+",
+        "label": "Atletas de Elite"
+      },
+      "muscleLoss": {
+        "value": "0.0g",
+        "label": "Perda Muscular Média"
+      }
+    }
+  },
+  "MobilePreview": {
+    "currentPhase": "Fase Atual",
+    "waterLoading": "Carga de Água",
+    "currentLbs": "LIBRAS ATUAIS",
+    "lbsToGo": "LIBRAS RESTANTES",
+    "start": "Início",
+    "target": "Meta",
+    "tabs": {
+      "dailyPlan": "Plano Diário",
+      "macros": "Macros",
+      "supps": "Suplementos"
+    },
+    "daysToWeighIn": "Dias para a Pesagem",
+    "scaleTime": "Balança às 09:00 Sexta-feira",
+    "hydrationStatus": "Status de Hidratação",
+    "distilledWater": "Água Destilada",
+    "dandelionRoot": "Raiz de Dente-de-leão",
+    "scheduled": "Agendado",
+    "nextFuel": "Próxima Refeição",
+    "postWorkout": "Pós-Treino",
+    "leanWhiteFish": "Peixe Branco Magro + Espinafre",
+    "noSodium": "SEM SÓDIO ADICIONADO",
+    "protein": "Proteína",
+    "carbs": "Carboidratos",
+    "dailyCalorieCap": "Limite Calórico Diário",
+    "tdee": "TDEE"
+  },
+  "Science": {
+    "headline1": "A CIÊNCIA DA",
+    "headline2": "PERFORMANCE MÁXIMA.",
+    "description": "Não usamos \"pseudo-ciência\". Nossos protocolos são derivados de nutricionistas de elite do UFC e programas de luta universitários.",
+    "phase01": "Fase de Carga",
+    "phase02": "O Ajuste",
+    "features": {
+      "sodiumManipulation": {
+        "title": "Manipulação de Sódio",
+        "description": "Rastreamento preciso da ingestão de sal para ativar a resposta hormonal diurética natural do seu corpo sem quedas de energia.",
+        "link": "Ver Protocolo"
+      },
+      "metabolicRecovery": {
+        "title": "Recuperação Metabólica",
+        "description": "Calcule seus ajustes exatos de TDEE baseados no volume de treino do campo. Mantenha seu metabolismo queimando forte.",
+        "link": "Ler Estudos"
+      },
+      "rehydration": {
+        "title": "Fase de Reidratação",
+        "description": "As 24 horas mais críticas. Protocolo minuto a minuto para repor glicogênio e fluidos para violência máxima.",
+        "link": "O Plano de Recarga"
+      }
+    }
+  },
+  "CTA": {
+    "headline1": "PARE DE ADIVINHAR.",
+    "headline2": "COMECE A VENCER.",
+    "description": "Junte-se a mais de 15.000 atletas que usam CUT para dominar a balança e seus oponentes. Baixe agora no iOS e Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "Footer": {
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "contact": "Contato",
+    "institutional": "Institucional",
+    "copyright": "© 2024 CUT ATHLETICS. APENAS PARA ELITE."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "Navigation": {
+    "theMethod": "La Méthode",
+    "nutrition": "Nutrition",
+    "testimonials": "Témoignages",
+    "enterCamp": "Rejoindre le Camp"
+  },
+  "Hero": {
+    "badge": "Cutting de Poids Axé Performance",
+    "headline1": "NE CUTTEZ PAS.",
+    "headline2": "ÉVOLUEZ.",
+    "description": "Le protocole d'élite pour lutteurs et athlètes de combat. Manipulation du sodium basée sur la science, charge en eau et macros axés performance. Pesez à 100% de votre puissance.",
+    "ctaPrimary": "Démarrez Votre Camp de 8 Semaines",
+    "ctaSecondary": "Voir le Protocole",
+    "stats": {
+      "successRate": {
+        "value": "98%",
+        "label": "Taux de Réussite à la Pesée"
+      },
+      "athletes": {
+        "value": "15k+",
+        "label": "Athlètes d'Élite"
+      },
+      "muscleLoss": {
+        "value": "0.0g",
+        "label": "Perte Musculaire Moy."
+      }
+    }
+  },
+  "MobilePreview": {
+    "currentPhase": "Phase Actuelle",
+    "waterLoading": "Charge en Eau",
+    "currentLbs": "POIDS ACTUEL",
+    "lbsToGo": "À PERDRE",
+    "start": "Départ",
+    "target": "Objectif",
+    "tabs": {
+      "dailyPlan": "Plan Quotidien",
+      "macros": "Macros",
+      "supps": "Suppléments"
+    },
+    "daysToWeighIn": "Jours avant la Pesée",
+    "scaleTime": "Pesée à 09h00 Vendredi",
+    "hydrationStatus": "État d'Hydratation",
+    "distilledWater": "Eau Distillée",
+    "dandelionRoot": "Racine de Pissenlit",
+    "scheduled": "Programmé",
+    "nextFuel": "Prochain Repas",
+    "postWorkout": "Post-Entraînement",
+    "leanWhiteFish": "Poisson Blanc Maigre + Épinards",
+    "noSodium": "SANS SODIUM AJOUTÉ",
+    "protein": "Protéines",
+    "carbs": "Glucides",
+    "dailyCalorieCap": "Limite Calorique Quotidienne",
+    "tdee": "TDEE"
+  },
+  "Science": {
+    "headline1": "LA SCIENCE DE LA",
+    "headline2": "PERFORMANCE OPTIMALE.",
+    "description": "Nous n'utilisons pas de \"pseudo-science\". Nos protocoles sont dérivés des nutritionnistes d'élite de l'UFC et des programmes de lutte universitaires.",
+    "phase01": "Phase de Charge",
+    "phase02": "Le Dégressif",
+    "features": {
+      "sodiumManipulation": {
+        "title": "Manipulation du Sodium",
+        "description": "Suivi précis de l'apport en sel pour déclencher la réponse hormonale diurétique naturelle de votre corps sans chute d'énergie.",
+        "link": "Voir le Protocole"
+      },
+      "metabolicRecovery": {
+        "title": "Récupération Métabolique",
+        "description": "Calculez vos ajustements TDEE exacts basés sur le volume d'entraînement du camp. Gardez votre métabolisme au maximum.",
+        "link": "Lire les Études"
+      },
+      "rehydration": {
+        "title": "Phase de Réhydratation",
+        "description": "Les 24 heures les plus critiques. Protocole minute par minute pour reconstituer le glycogène et les fluides pour une violence maximale.",
+        "link": "Le Plan de Recharge"
+      }
+    }
+  },
+  "CTA": {
+    "headline1": "ARRÊTEZ DE DEVINER.",
+    "headline2": "COMMENCEZ À GAGNER.",
+    "description": "Rejoignez plus de 15 000 athlètes qui utilisent CUT pour dominer la balance et leurs adversaires. Téléchargez maintenant sur iOS et Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "Footer": {
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "contact": "Contact",
+    "institutional": "Institutionnel",
+    "copyright": "© 2024 CUT ATHLETICS. POUR L'ÉLITE SEULEMENT."
+  }
+}
