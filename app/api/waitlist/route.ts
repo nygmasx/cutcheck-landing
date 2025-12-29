@@ -12,13 +12,18 @@ export async function POST(request: Request) {
       );
     }
 
+    // Récupérer l'origin du client
+    const origin = request.headers.get('origin') || request.headers.get('referer') || '';
+
     // Envoi à Waitlister
     const response = await fetch(
       `https://waitlister.me/s/${process.env.WAITLIST_KEY}`,
       {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/x-www-form-urlencoded'
+          'Content-Type': 'application/x-www-form-urlencoded',
+          'Origin': origin,
+          'Referer': origin
         },
         body: new URLSearchParams({ email })
       }
