@@ -20,7 +20,7 @@ export function Footer() {
           <div className="w-6 h-6 bg-neon flex items-center justify-center rounded-sm">
             <span className="text-black font-bold text-sm">C</span>
           </div>
-          <span className="text-sm font-bold tracking-widest uppercase">Cut.</span>
+          <span className="text-sm font-bold tracking-widest uppercase">Cutcheck.</span>
         </div>
 
         <div className="flex gap-8 text-[10px] uppercase tracking-[0.2em] font-bold text-zinc-500">
