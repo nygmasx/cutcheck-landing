@@ -81,9 +81,16 @@
   "CTA": {
     "headline1": "DEJA DE ADIVINAR.",
     "headline2": "EMPIEZA A GANAR.",
-    "description": "Únete a más de 15,000 atletas que usan CUT para dominar la báscula y a sus oponentes. Descarga ahora en iOS y Android.",
+    "description": "Únete a la lista de espera para ser el primero en acceder a CUTCHECK cuando lancemos. Obtén acceso anticipado exclusivo.",
     "appStore": "App Store",
     "googlePlay": "Google Play"
+  },
+  "Waitlist": {
+    "placeholder": "Ingresa tu email",
+    "submit": "Unirme a la lista",
+    "loading": "Procesando...",
+    "success": "¡Estás dentro!",
+    "error": "Algo salió mal. Por favor intenta de nuevo."
   },
   "Footer": {
     "privacy": "Privacidad",

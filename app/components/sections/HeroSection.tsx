@@ -3,6 +3,7 @@
 import React from 'react';
 import { useTranslations } from 'next-intl';
 import { MobilePreview } from '../ui/MobilePreview';
+import { WaitlistForm } from '../ui/WaitlistForm';
 
 export function HeroSection() {
   const t = useTranslations('Hero');
@@ -30,14 +31,7 @@ export function HeroSection() {
           <p className="text-lg text-zinc-400 max-w-lg mb-10 font-light leading-relaxed">
             {t('description')}
           </p>
-          <div className="flex flex-wrap gap-4">
-            <button className="bg-neon text-black px-8 py-4 rounded-sm font-bold text-sm uppercase tracking-widest glow-hover transition-all">
-              {t('ctaPrimary')}
-            </button>
-            <button className="glass px-8 py-4 rounded-sm font-bold text-sm uppercase tracking-widest hover:bg-white/10 transition-all border border-white/10">
-              {t('ctaSecondary')}
-            </button>
-          </div>
+          <WaitlistForm />
 
           <div className="mt-16 grid grid-cols-3 gap-8">
             {stats.map((stat) => (

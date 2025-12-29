@@ -81,9 +81,16 @@
   "CTA": {
     "headline1": "STOP GUESSING.",
     "headline2": "START WINNING.",
-    "description": "Join 15,000+ athletes who use CUT to dominate the scale and their opponents. Download now on iOS and Android.",
+    "description": "Join the waitlist to be the first to access CUTCHECK when we launch. Get exclusive early access.",
     "appStore": "App Store",
     "googlePlay": "Google Play"
+  },
+  "Waitlist": {
+    "placeholder": "Enter your email",
+    "submit": "Join Waitlist",
+    "loading": "Joining...",
+    "success": "You're in!",
+    "error": "Something went wrong. Please try again."
   },
   "Footer": {
     "privacy": "Privacy",

@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { useTranslations } from 'next-intl';
-import { AppStoreButtons } from '../ui/AppStoreButtons';
+import { WaitlistForm } from '../ui/WaitlistForm';
 
 export function CtaSection() {
   const t = useTranslations('CTA');
@@ -17,7 +17,7 @@ export function CtaSection() {
         <p className="text-zinc-400 text-lg mb-12 max-w-xl mx-auto font-light">
           {t('description')}
         </p>
-        <AppStoreButtons />
+        <WaitlistForm />
       </div>
 
       <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-neon/50 to-transparent opacity-30"></div>

@@ -4,6 +4,7 @@ import React from 'react';
 import { useTranslations } from 'next-intl';
 import { useScrolled } from '@/lib/hooks/useScrolled';
 import { LanguageSwitcher } from '../ui/LanguageSwitcher';
+import { Logo } from '../ui/Logo';
 
 export function Header() {
   const t = useTranslations('Navigation');

@@ -9,8 +9,8 @@
     "badge": "Cutting de Poids Axé Performance",
     "headline1": "NE CUTTEZ PAS.",
     "headline2": "ÉVOLUEZ.",
-    "description": "Le protocole d'élite pour lutteurs et athlètes de combat. Manipulation du sodium basée sur la science, charge en eau et macros axés performance. Pesez à 100% de votre puissance.",
-    "ctaPrimary": "Démarrez Votre Camp de 8 Semaines",
+    "description": "Le protocole d'élite pour les combattants. Manipulation du sodium basée sur la science, water loading et macros axés performance. Combattez à 100% de votre puissance.",
+    "ctaPrimary": "Démarrez Votre Fight Camp",
     "ctaSecondary": "Voir le Protocole",
     "stats": {
       "successRate": {
@@ -29,7 +29,7 @@
   },
   "MobilePreview": {
     "currentPhase": "Phase Actuelle",
-    "waterLoading": "Charge en Eau",
+    "waterLoading": "Water Loading",
     "currentLbs": "POIDS ACTUEL",
     "lbsToGo": "À PERDRE",
     "start": "Départ",
@@ -79,17 +79,24 @@
     }
   },
   "CTA": {
-    "headline1": "ARRÊTEZ DE DEVINER.",
-    "headline2": "COMMENCEZ À GAGNER.",
-    "description": "Rejoignez plus de 15 000 athlètes qui utilisent CUT pour dominer la balance et leurs adversaires. Téléchargez maintenant sur iOS et Android.",
+    "headline1": "ARRÊTEZ D'ESSAYER.",
+    "headline2": "GAGNEZ.",
+    "description": "Rejoignez la liste d'attente pour être parmi les premiers à accéder à CUTCHECK lors du lancement. Obtenez un accès anticipé exclusif.",
     "appStore": "App Store",
     "googlePlay": "Google Play"
+  },
+  "Waitlist": {
+    "placeholder": "Entrez votre email",
+    "submit": "Rejoindre la liste",
+    "loading": "En cours...",
+    "success": "C'est fait !",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
   },
   "Footer": {
     "privacy": "Confidentialité",
     "terms": "Conditions",
     "contact": "Contact",
     "institutional": "Institutionnel",
-    "copyright": "© 2024 CUT ATHLETICS. POUR L'ÉLITE SEULEMENT."
+    "copyright": "© 2026 CUTCHECK ATHLETICS. POUR L'ÉLITE SEULEMENT."
   }
 }
