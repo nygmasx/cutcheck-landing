@@ -25,21 +25,21 @@ const SEO_TRANSLATIONS = {
       'cutting weight for BJJ',
       'cutting weight for wrestling'
     ],
-    ogTitle: 'CUT - Elite Weight Management for Combat Athletes',
+    ogTitle: 'CUTCHECK - Elite Weight Cutting Management for Combat Athletes',
     ogDescription: 'Science-backed weight cutting for MMA, BJJ, and wrestling. Track hydration, optimize your cut, make weight safely.',
     locale: 'en_US'
   },
   fr: {
-    title: 'CUT - Gestion de Poids Élite pour Athlètes de Combat | MMA, JJB, Lutte',
-    description: 'Application professionnelle de coupe de poids pour combattants MMA, compétiteurs JJB et lutteurs. Suivi d\'hydratation basé sur la science, plans de coupe personnalisés et surveillance en temps réel. Faites le poids en toute sécurité à chaque fois.',
+    title: 'CUTCHECK - Weight Cutting Élite pour Athlètes de Combat | MMA, JJB, Lutte',
+    description: 'Application professionnelle de weight cutting pour combattants MMA, compétiteurs JJB et lutteurs. Suivi d\'hydratation basé sur la science, plans de coupe personnalisés et surveillance en temps réel. Faites le poids en toute sécurité à chaque fois.',
     keywords: [
       'application coupe de poids',
-      'coupe de poids MMA',
+      'weight cutting MMA',
       'gestion poids JJB',
-      'coupe de poids lutte',
+      'weight cutting lutte',
       'nutrition sports de combat',
       'suivi hydratation',
-      'calculateur coupe de poids',
+      'calculateur weight cutting',
       'préparation semaine combat',
       'charge en eau',
       'manipulation sodium',
