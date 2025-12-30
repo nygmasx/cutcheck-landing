@@ -2,6 +2,7 @@ import { Space_Grotesk } from "next/font/google";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
+import { Analytics } from '@vercel/analytics/react';
 import { locales } from '@/i18n';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo-metadata';
 import "../globals.css";
@@ -43,6 +44,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );

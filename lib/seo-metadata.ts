@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 const SEO_TRANSLATIONS = {
   en: {
-    title: 'CUT - Elite Weight Management for Combat Athletes | MMA, BJJ, Wrestling',
+    title: 'CUTCHECK - Elite Weight Management for Combat Athletes | MMA, BJJ, Wrestling',
     description: 'Professional weight cutting app for MMA fighters, BJJ competitors, and wrestlers. Science-backed hydration tracking, personalized cutting plans, and real-time monitoring. Make weight safely every time.',
     keywords: [
       'weight cutting app',
@@ -53,12 +53,12 @@ const SEO_TRANSLATIONS = {
       'couper poids JJB',
       'couper poids lutte'
     ],
-    ogTitle: 'CUT - Gestion de Poids Élite pour Athlètes de Combat',
+    ogTitle: 'CUTCHECK - Gestion de Poids Élite pour Athlètes de Combat',
     ogDescription: 'Coupe de poids basée sur la science pour MMA, JJB et lutte. Suivez votre hydratation, optimisez votre coupe, faites le poids en toute sécurité.',
     locale: 'fr_FR'
   },
   es: {
-    title: 'CUT - Gestión de Peso Élite para Atletas de Combate | MMA, BJJ, Lucha',
+    title: 'CUTCHECK - Gestión de Peso Élite para Atletas de Combate | MMA, BJJ, Lucha',
     description: 'Aplicación profesional de corte de peso para peleadores MMA, competidores BJJ y luchadores. Seguimiento de hidratación basado en ciencia, planes de corte personalizados y monitoreo en tiempo real. Haz peso de forma segura cada vez.',
     keywords: [
       'app corte de peso',
@@ -81,12 +81,12 @@ const SEO_TRANSLATIONS = {
       'cortar peso BJJ',
       'cortar peso lucha'
     ],
-    ogTitle: 'CUT - Gestión de Peso Élite para Atletas de Combate',
+    ogTitle: 'CUTCHECK - Gestión de Peso Élite para Atletas de Combate',
     ogDescription: 'Corte de peso basado en ciencia para MMA, BJJ y lucha. Rastrea hidratación, optimiza tu corte, haz peso de forma segura.',
     locale: 'es_ES'
   },
   pt: {
-    title: 'CUT - Gestão de Peso Elite para Atletas de Combate | MMA, JJB, Luta',
+    title: 'CUTCHECK - Gestão de Peso Elite para Atletas de Combate | MMA, JJB, Luta',
     description: 'Aplicativo profissional de corte de peso para lutadores de MMA, competidores de JJB e wrestlers. Rastreamento de hidratação baseado em ciência, planos de corte personalizados e monitoramento em tempo real. Faça o peso com segurança toda vez.',
     keywords: [
       'app corte de peso',
@@ -109,7 +109,7 @@ const SEO_TRANSLATIONS = {
       'cortar peso JJB',
       'cortar peso luta'
     ],
-    ogTitle: 'CUT - Gestão de Peso Elite para Atletas de Combate',
+    ogTitle: 'CUTCHECK - Gestão de Peso Elite para Atletas de Combate',
     ogDescription: 'Corte de peso baseado em ciência para MMA, JJB e luta. Rastreie hidratação, otimize seu corte, faça peso com segurança.',
     locale: 'pt_BR'
   }
@@ -137,7 +137,7 @@ export function generateMetadata(locale: string): Metadata {
       type: 'website',
       locale: seo.locale,
       url: `https://cutcheck.app${locale === 'en' ? '' : `/${locale}`}`,
-      siteName: 'CUT - Weight Cutting App',
+      siteName: 'CUTCHECK - Weight Cutting App',
       title: seo.ogTitle,
       description: seo.ogDescription,
       images: [
